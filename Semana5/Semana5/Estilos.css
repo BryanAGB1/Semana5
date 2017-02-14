@@ -3,7 +3,13 @@
     border: 0px;
 }
 
-#col-sm-4{
-    margin-left: 500px;
-
+#titulo strong, #titulo2 strong, #titulo3 strong{
+    font-size: 28px; 
+    padding-left: 150px;
 }
+
+#Microsoft, #Google, #Amazon{
+    text-align: justify;
+    font-size: 18px; 
+}
+
