@@ -1,2 +1,9 @@
 ﻿body {
+    margin: 0px;
+    border: 0px;
+}
+
+#col-sm-4{
+    margin-left: 500px;
+
 }
